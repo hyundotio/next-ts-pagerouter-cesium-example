@@ -5,7 +5,8 @@
 You know what to do... `npm install` and `npm run dev` or `npm run build` then `npm run start` - Yarn probably works too...
 
 ## Important bits
-https://nextjs-pr-cesium.vercel.app 
+https://nextjs-pr-cesium.vercel.app <- Live demo
+
 https://github.com/hyundotio/nextjs-ts-cesium-example <- Click here for App router example
 
 #### Demo
